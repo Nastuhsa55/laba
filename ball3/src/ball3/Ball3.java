@@ -12,8 +12,6 @@ public class Ball3 {
         Ball gui = new Ball();
         gui.setBackground(Color.WHITE);
         Ball balls = new Ball();
-      //  balls.paintComponent(new Graphics());
-       // balls.actionPerformed();
         frame.add(gui);
         frame.setSize(500, 300);
         frame.setVisible(true);

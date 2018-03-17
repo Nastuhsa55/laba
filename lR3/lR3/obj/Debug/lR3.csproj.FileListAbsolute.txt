@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Тестирование ПО\lR3\lR3\bin\Debug\lR3.exe.config
+C:\Users\USER\Desktop\Тестирование ПО\lR3\lR3\bin\Debug\lR3.exe
+C:\Users\USER\Desktop\Тестирование ПО\lR3\lR3\bin\Debug\lR3.pdb
+C:\Users\USER\Desktop\Тестирование ПО\lR3\lR3\obj\Debug\lR3.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Тестирование ПО\lR3\lR3\obj\Debug\lR3.exe
+C:\Users\USER\Desktop\Тестирование ПО\lR3\lR3\obj\Debug\lR3.pdb

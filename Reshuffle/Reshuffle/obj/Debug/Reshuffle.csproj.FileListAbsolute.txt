@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Тестирование ПО\Reshuffle\Reshuffle\bin\Debug\Reshuffle.exe.config
+C:\Users\USER\Desktop\Тестирование ПО\Reshuffle\Reshuffle\bin\Debug\Reshuffle.exe
+C:\Users\USER\Desktop\Тестирование ПО\Reshuffle\Reshuffle\bin\Debug\Reshuffle.pdb
+C:\Users\USER\Desktop\Тестирование ПО\Reshuffle\Reshuffle\obj\Debug\Reshuffle.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Тестирование ПО\Reshuffle\Reshuffle\obj\Debug\Reshuffle.exe
+C:\Users\USER\Desktop\Тестирование ПО\Reshuffle\Reshuffle\obj\Debug\Reshuffle.pdb
